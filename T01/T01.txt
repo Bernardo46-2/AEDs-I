@@ -1,0 +1,35 @@
+Pesquisa Científica
+Bernardo Marques Fernandes - 774119
+Estudante de Ciência da Computação - PUC Minas
+
+
+-Resumo
+
+Este artigo aborda um resumo das as aulas do professor Gilson Volpato sobre pesquisa científica, onde busca mostrar 
+como identificar os tipos de pesquisa necessários para responder uma pergunta e para se chegar à conclusão.
+
+
+-Objetivo
+
+A pesquisa científica visa responder uma pergunta criada a partir da observação das necessidades identificadas pelo observador.
+Essas pesquisas recebem várias classificações, porém as principais são três: pesquisa descritiva, pesquisa associativa e 
+pesquisa associativa com interferência, sendo que todas elas possuem a semelhança: todas partem de uma pergunta.
+
+
+-Discussão
+
+A pesquisa descritiva busca descrever uma estrutura, uma situação ou uma ocorrência, não necessitando uma hipótese pois
+a pesquisa é a propria resposta da pergunta. Já a pesquisa associativa, pode possuir mais de uma hipótese, sendo as próprias 
+hipóteses que direcionam a pesquisa. Quando o teste de uma hipótese não responde a pergunta, é necessário criar novas hipóteses.
+Uma variação da pesquisa associativa são as pesquisas associativas com interferência. Chamamos interferência ao efeito que uma
+variável produz na outra, ou seja, mudanças ocorridas em uma parte da relação implicam mudanças em outra parte.
+
+
+-Conclusão
+
+Para definir qual o tipo de pesquisa a ser feito é necessário boa definição da pergunta, pois é ela que vai dizer se necessita
+hipóteses ou não e direcionar os métodos necessários para a pesquisa.
+
+
+-Referências
+AULA 20 de 42 - TRÊS TIPOS LÓGICOS DE PESQUISA

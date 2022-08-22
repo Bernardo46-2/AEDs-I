@@ -1,0 +1,16 @@
+5
+supermercado1
+100
+2.99
+supermercado2
+200
+3.50
+supermercado3
+300
+4.50
+supermercado4
+400
+3.00
+supermercado5
+500
+5.20
